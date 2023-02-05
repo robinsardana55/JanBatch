@@ -1,11 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90c78494-0779-4b6e-952d-22a4c5725973" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/IfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Swapping.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/HelloWorld.java" afterDir="false" />
+    <list default="true" id="90c78494-0779-4b6e-952d-22a4c5725973" name="Changes" comment="Worked on two more program and updating them on github.">
+      <change beforePath="$PROJECT_DIR$/src/IfElse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/IfElse.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +34,14 @@
     "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.IfElse">
+    <configuration name="IfElse" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="IfElse" />
+      <module name="JanBatch" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Swapping" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Swapping" />
       <module name="JanBatch" />
@@ -47,6 +51,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.IfElse" />
         <item itemvalue="Application.Swapping" />
       </list>
     </recent_temporary>
@@ -60,6 +65,21 @@
       <option name="presentableId" value="Default" />
       <updated>1675626753796</updated>
     </task>
+    <task id="LOCAL-00001" summary="Worked on two more program and updating them on github.">
+      <created>1675629209964</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1675629209964</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Worked on two more program and updating them on github.">
+      <created>1675629234836</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1675629234836</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -72,5 +92,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Worked on two more program and updating them on github." />
+    <option name="LAST_COMMIT_MESSAGE" value="Worked on two more program and updating them on github." />
   </component>
 </project>
