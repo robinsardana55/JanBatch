@@ -2,7 +2,7 @@ package JAVA;
 
 import java.util.Scanner;
 
-public class Tableof2 {
+public class While {
     public static void main(String[] args) {
         System.out.println("Enter your desired number up to 100 ");
         Scanner table = new Scanner(System.in);
