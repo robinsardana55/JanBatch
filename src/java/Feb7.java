@@ -1,4 +1,4 @@
-package JAVA;
+package java;
 
 public class Feb7 {
     public static void main(String[] args) {

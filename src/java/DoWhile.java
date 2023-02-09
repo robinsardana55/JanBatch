@@ -1,4 +1,4 @@
-package JAVA;
+package java;
 
 public class DoWhile {
     public static void main(String[] args) {
