@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90c78494-0779-4b6e-952d-22a4c5725973" name="Changes" comment="Worked on two more program and updating them on github.">
-      <change beforePath="$PROJECT_DIR$/src/calculator/Add.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculator/Add.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calculator/Div.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculator/Div.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calculator/Mod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculator/Mod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calculator/Mul.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculator/Mul.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/calculator/Sub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculator/Sub.java" afterDir="false" />
-    </list>
+    <list default="true" id="90c78494-0779-4b6e-952d-22a4c5725973" name="Changes" comment="Worked on two more program and updating them on github." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
