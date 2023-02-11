@@ -1,0 +1,12 @@
+
+R
+java:S1854"7Remove this useless assignment to local variable "odd".(ƒèÃüúÿÿÿÿ
+<
+java:S1659
+"!Declare "odd" on a separate line.(Šßï¿şÿÿÿÿ
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(³ÛÄÀúÿÿÿÿ
+C
+java:S1481
+"(Remove this unused "odd" local variable.(Šßï¿şÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(êĞõôøÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(»Â‘üÿÿÿÿ

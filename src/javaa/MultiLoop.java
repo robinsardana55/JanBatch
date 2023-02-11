@@ -1,4 +1,4 @@
-package java;
+package javaa;
 
 public class MultiLoop {
     public static void main(String[] args) {
