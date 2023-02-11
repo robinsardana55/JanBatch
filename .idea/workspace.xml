@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="90c78494-0779-4b6e-952d-22a4c5725973" name="Changes" comment="Worked on two more program and updating them on github." />
+    <list default="true" id="90c78494-0779-4b6e-952d-22a4c5725973" name="Changes" comment="Worked on two more program and updating them on github.">
+      <change beforePath="$PROJECT_DIR$/src/calculator/Add.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculator/Add.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calculator/Div.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculator/Div.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calculator/Mod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculator/Mod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calculator/Mul.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculator/Mul.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calculator/Sub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculator/Sub.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,15 +40,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Robin/Desktop/sonarlint-intellij-7.4.0.60471.zip&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "last_opened_file_path": "C:/Users/Robin/Desktop/sonarlint-intellij-7.4.0.60471.zip",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.CalC">
     <configuration name="CalC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="calculator.CalC" />
@@ -142,7 +149,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675629234836</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Worked on two more program and updating them on github.">
+      <created>1676141082459</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1676141082459</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
