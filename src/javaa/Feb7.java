@@ -1,4 +1,4 @@
-package java;
+package javaa;
 
 public class Feb7 {
     public static void main(String[] args) {
