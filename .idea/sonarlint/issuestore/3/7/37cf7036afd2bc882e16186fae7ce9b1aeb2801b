@@ -1,0 +1,12 @@
+
+Q
+java:S1854";Remove this useless assignment to local variable "evenOdd".(õŒÇ´
+A
+java:S1659
+"Declare "r" on a separate line.(ùáÀñÿÿÿÿÿ8ÑÜÔˆä0
+=
+java:S2440"'Remove this instantiation of "EvenOdd".(õŒÇ´
+B
+java:S1481",Remove this unused "evenOdd" local variable.(õŒÇ´
+T	java:S106"9Replace this use of System.out or System.err by a logger.(Òìe8øÒˆä0
+Z	java:S106"9Replace this use of System.out or System.err by a logger.(µış·üÿÿÿÿ8ùÜÔˆä0

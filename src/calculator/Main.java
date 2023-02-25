@@ -2,7 +2,7 @@ package calculator;
 
 import java.util.Scanner;
 
-public class CalC {
+public class Main {
     public static void main(String[] args) {
         boolean flag = true;
 
