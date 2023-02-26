@@ -1,16 +1,0 @@
-
-S	java:S106"9Replace this use of System.out or System.err by a logger.(…‰øÎùÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ƒ›äÏşÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(Õ“œ¹
-M	java:S106"9Replace this use of System.out or System.err by a logger.(µÛµJ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Ğ™ÍÊıÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ù¸¾ùÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Ë„•›şÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ÎÕĞÀÿÿÿÿÿ
-f	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(İ–Ò˜ÿÿÿÿÿ
-F
-java:S4524"+Move this default to the end of the switch.(İ–Ò˜ÿÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(ƒœ½İùÿÿÿÿ
-N	java:S1065"9Replace this use of System.out or System.err by a logger.(ÔŸùí
-B
-java:S11259"'Remove the unnecessary boolean literal.(ƒŠ¥Ğùÿÿÿÿ

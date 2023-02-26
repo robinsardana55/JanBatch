@@ -1,14 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="90c78494-0779-4b6e-952d-22a4c5725973" name="Changes" comment="Worked on two more program and updating them on github." />
-=======
     <list default="true" id="90c78494-0779-4b6e-952d-22a4c5725973" name="Changes" comment="Worked on two more program and updating them on github.">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaa/Array.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaa/ClassObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/javaa/StringArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/object/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/object/Carr.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/object/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/1/112f19180dab7edfa8ad5b23f5817f76cd3c899a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/3/3304dcd7a9754ba84a4191fe65e6ace35177b2c6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/7/4722368128d62381a6d0565087c67b04e03fa4f5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/c/8cc682300366f0906abf2f12c07be97c29098bce" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/2/c2a2fdbafdd2017c758b82a252989bfb8a6c1586" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/1/e177b3c58e6eaa4dbf78d73fb6382d6a599172ed" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/1/e1b6bacf60efc8d0f53b7a127eba3fbd3ad3c715" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calculator/Add.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculator/Add.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calculator/CalC.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculator/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calculator/Div.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculator/Div.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calculator/Mod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculator/Mod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calculator/Mul.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculator/Mul.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/calculator/Sub.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/calculator/Sub.java" afterDir="false" />
     </list>
->>>>>>> 942afe40c53900b444a4464a14fd31b9e9badaa9
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,18 +56,6 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-<<<<<<< HEAD
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
-    "last_opened_file_path": "C:/Users/Robin/Desktop/sonarlint-intellij-7.4.0.60471.zip",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
-  }
-}]]></component>
-=======
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
@@ -62,23 +65,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
->>>>>>> 942afe40c53900b444a4464a14fd31b9e9badaa9
-  <component name="RunManager" selected="Application.CalC">
-    <configuration name="CalC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="calculator.CalC" />
-      <module name="JanBatch" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="calculator.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Feb11" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="javaa.Feb11" />
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaa.Array" />
       <module name="JanBatch" />
       <extension name="coverage">
         <pattern>
@@ -90,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="assignment.Pattern" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="object.Main" />
       <module name="JanBatch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="assignment.*" />
+          <option name="PATTERN" value="object.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -103,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="assignment.Sum" />
+    <configuration name="SmallestLargestWord" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaa.SmallestLargestWord" />
       <module name="JanBatch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="assignment.*" />
+          <option name="PATTERN" value="javaa.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +105,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sum10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="JAVA.Sum10" />
+    <configuration name="StingFunctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaa.StingFunctions" />
       <module name="JanBatch" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="assignment.*" />
+          <option name="PATTERN" value="javaa.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StringArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="javaa.StringArray" />
+      <module name="JanBatch" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="javaa.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,11 +133,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CalC" />
-        <item itemvalue="Application.Feb11" />
-        <item itemvalue="Application.Sum" />
-        <item itemvalue="Application.assignment.Pattern" />
-        <item itemvalue="Application.Sum10" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.StringArray" />
+        <item itemvalue="Application.Array" />
+        <item itemvalue="Application.SmallestLargestWord" />
+        <item itemvalue="Application.StingFunctions" />
       </list>
     </recent_temporary>
   </component>

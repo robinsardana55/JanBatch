@@ -2,10 +2,7 @@ package calculator;
 
 import java.util.Scanner;
 
-public class Mod {
-    public static void main(String[] args) {
-
-    }
+public class Mod{
 
     public static void mod() {
         Scanner sc = new Scanner(System.in);

@@ -3,10 +3,6 @@ package calculator;
 import java.util.Scanner;
 
 public class Div {
-    public static void main(String[] args) {
-
-    }
-
     public static void div() {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the first value = ");

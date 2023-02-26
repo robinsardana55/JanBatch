@@ -3,10 +3,6 @@ package calculator;
 import java.util.Scanner;
 
 public class Add {
-    public static void main(String[] args) {
-add();
-    }
-
     public static void add() {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter the first value = ");
